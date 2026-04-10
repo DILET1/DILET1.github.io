@@ -1,6 +1,6 @@
 # Welcome to the profile of Dilet!
 
-Last updated: April 8, 2026
+Last updated: April 9, 2026
 
 I'm Dilet, also known by ~some~ most as Ethan. Hi. This place is pretty empty right now, but will progressively get livlier as I start programming again now that I'm in college.
 
@@ -24,7 +24,7 @@ Since this is now a Github Pages site, here's some quick links for projects:
 
 [SchrodingerSolver](https://github.com/DILET1/SchrodingerSolver), the Schrodinger equation visualizer. Built with numpy and matplotlib.
 
-PointBalls, the tentative name for the N-body simulator, which isn't up yet.
+[PointBalls](https://github.com/DILET1/PointBalls), the N-body simulator. Using the RK4 method and Barnes-Hut simulation.
 
 I also have a project car, a 2008 Mazda RX-8 that I'm currently rebuilding the engine in. 
 
